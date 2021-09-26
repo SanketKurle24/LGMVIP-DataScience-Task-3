@@ -11,4 +11,4 @@ Image to Pencil Sketch with Python
 I have used little cute dog image here
 ![dog](https://user-images.githubusercontent.com/66297774/134795267-55f823d3-5afc-4b09-b234-0654727a956a.jpg)
 
-Source – https://www.wallpapertip.com/
+Source – Wallpapertip
